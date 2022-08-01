@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+
+
+
+ .navbar .navbar-nav .nav-link{
+    font-size: 17px;
+    
+ }
+ .navbar-collapse{
+  
+   background-color: rgba(255, 86, 11, 1);
+   
+ }
+ .navbar a {
+    color: white !important;
+}
+.navbar a:hover {
+   color: grey !important;
+  
+}
+.testmonials{
+    background-color: #F2F9F7;
+    margin-top: 130px;
+    
+    
+}
+
+.testmonials h1{
+    font-weight: bold;
+}
+#te{
+    color: rgba(255, 86, 11, 1);    
+}
+
+
+
+.client-say img{
+    align-self: center;
+    width: 53px;
+    height: 75px;
+}
+.client-say {
+    
+    width: 70%;
+
+
+}
+.centercom{
+    margin-top: 20px;
+}
+
+
+.get-in-touch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 86, 11, 1);
+    
+    height: 182px;
+    margin-top: 20px;
+}
+.get-in-touch h2{
+    color: white;
+    
+}
+
+#green-leaf{
+    margin-top: 150px;
+}
+#testi{
+    margin-top:60px;
+}
+#vision{
+
+    margin-top:80px;
+}
+#brochure-button{
+    border-radius: 15px;
+   background-color: black;
+ 
+   border-color: rgba(255, 86, 11, 1); 
+}
+#lastsec{
+    margin-top:80px;
+}
